@@ -167,6 +167,7 @@ body{
 
     .fueguito{
         display: block;
+      
     }
 
     .container{
@@ -219,7 +220,7 @@ body{
     }
 
     .fueguito{
-        width: 320px;
+        width :260px;
         height:160px;
         padding-bottom: 20px;
     }
